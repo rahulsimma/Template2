@@ -1,0 +1,297 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+
+.Home{
+    background-color: navy;
+    height: 1115px;
+    padding-top: 20px;
+}
+
+.logo{
+    /* border: 2px solid black; */
+    width: 280px;
+    height: 290px;
+    margin-left: 30px;
+    padding-top: 100px;
+}
+
+
+.ram{
+
+    /* border: 2px solid red ; */
+   width: 277px;
+   height: 200px;
+   margin-top: -100px;
+   background-image: url(https://www.tourmyindia.com/states/jammu-kashmir/image/hill-stations-jk2.jpg);
+   
+}
+
+
+
+.ram1{
+    border: 2px solid black;
+    margin-top: -1px;
+    height: 188px;
+     background-color: white;
+      width: 277px;
+     text-align: center;
+     border: none;
+}
+.ram1 p{
+    font-size: 15px;
+}
+
+
+
+.mogo{
+   /* border: 2px solid black; */
+  width: 280px;
+  height: 420px;
+  margin-left:  340px;   
+  margin-top: -390px;
+}
+
+.ram2{
+   /* border: 2px solid red ; */
+   width: 280px;
+   height: 250px;
+   margin-top: -1px;
+     background-image: url(https://media.wired.com/photos/593261cab8eb31692072f129/master/pass/85120553.jpg);
+     background-size: 370px;
+}
+.ram3{
+    /* border: 2px solid black; */
+    margin-top: -1px;
+    height: 192px;
+     background-color: white;
+      width: 280px;
+     text-align: center;
+     margin-top: 0px;
+}
+
+.rogo{
+        /* border: 2px solid black;  */
+        width: 276px;
+        height: 290px;
+        margin-left: 650px;
+        margin-top: -420px;
+    
+}
+
+.ram4{
+    /* border: 2px solid red ;  */
+   width: 276px;
+   height: 125px;
+   margin-top: -1px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBt9zWb89mlihS6PcIiCBNuT_hY0Ej7iQjg&s);
+}
+.ram5{
+      /* border: 2px solid black;  */
+     margin-top: -1px;
+     height: 163px;
+      background-color: white;
+       width: 275px;
+      text-align: center;
+      margin-top: 1px;
+}
+
+
+.kogo{
+     /* border: 2px solid black; */
+     width: 276px;
+     height: 400px;
+     margin-left: 950px;
+     margin-top:-290px;
+}
+
+.ram6{
+    /* border: 2px solid red ; */
+   width: 276px;
+   height: 245px;
+   margin-top: -1px;
+    background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/greenary-durgasrinivas-yarramsetty.jpg);
+}
+
+
+.ram7{
+       /* border: 2px solid black; */
+       height: 163px;
+        background-color: white;
+         width: 277px;
+        text-align: center;
+        margin-top: -12px;
+}
+
+.wogo{
+    /* border: 2px solid black; */
+    width: 280px;
+    height: 290px;
+    margin-left: 30px;
+    padding-top: 100px;
+}
+
+
+.ram8{
+
+    /* border: 2px solid red ; */
+   width: 277px;
+   height: 200px;
+   margin-top: -100px;
+   background-image: url(https://images.fineartamerica.com/images-medium-large-5/forest-light-luiskurtum-photography.jpg);
+   
+}
+
+
+
+.ram9{
+    border: 2px solid black;
+    margin-top: -1px;
+    height: 188px;
+     background-color: white;
+      width: 277px;
+     text-align: center;
+     border: none;
+}
+
+
+.pogo{
+    /* border: 2px solid black; */
+   width: 280px;
+   height: 420px;
+   margin-left:  340px;   
+   margin-top: -330px;
+ }
+ 
+ .ram10{
+    /* border: 2px solid red ; */
+    width: 280px;
+    height: 250px;
+    margin-top: -1px;
+      background-image: url(https://www.dalton-cosmetics.com/media/wysiwyg/Dalton-Meereskosmetik-Wirkstoffe-Tiefseewasser.jpg);
+      background-size: 370px;
+ }
+ .ram11{
+     /* border: 2px solid black; */
+     margin-top: -1px;
+     height: 192px;
+      background-color: white;
+       width: 280px;
+      text-align: center;
+      margin-top: 0px;
+ }
+
+ .yogo{
+    /* border: 2px solid black; */
+   width: 280px;
+   height: 420px;
+   margin-left:  650px;   
+   margin-top: -570px;
+ }
+ 
+ .ram12{
+    /* border: 2px solid red ; */
+    width: 280px;
+    height: 250px;
+    margin-top: -1px;
+      background-image: url(https://i.natgeofe.com/n/fb80fae8-d096-4f5a-98ab-ec43830aa023/20846.jpg);
+      background-size: 370px;
+ }
+ .ram13{
+     /* border: 2px solid black; */
+     margin-top: -1px;
+     height: 192px;
+      background-color: white;
+       width: 280px;
+      text-align: center;
+      margin-top: 0px;
+ }
+
+ .eogo{
+    /* border: 2px solid black; */
+   width: 280px;
+   height: 420px;
+   margin-left:  947px;   
+   margin-top: -310px;
+ }
+ 
+ .ram14{
+    /* border: 2px solid red ; */
+    width: 280px;
+    height: 250px;
+    margin-top: -1px;
+      background-image: url(https://cdn.britannica.com/69/143269-050-9D639E2F/Wainscot-hall-Chateau-de-Pierrefonds-France-Oise.jpg);
+      background-size: 370px;
+ }
+ .ram15{
+     /* border: 2px solid black; */
+     margin-top: -1px;
+     height: 192px;
+      background-color: white;
+       width: 280px;
+      text-align: center;
+      margin-top: 0px;
+ }
+ 
+ .togo{
+    /* border: 2px solid black;  */
+    width: 276px;
+    height: 290px;
+    margin-left: 30px;
+    margin-top: -37px;
+
+}
+
+.ram16{
+/* border: 2px solid red ;  */
+width: 276px;
+height: 125px;
+margin-top: -1px;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTlHMFhaSDbbcLMrzAKMKH6javwEJgnOKeFA&s);
+}
+
+.ram17{
+  /* border: 2px solid black;  */
+ margin-top: -1px;
+ height: 163px;
+  background-color: white;
+  background-repeat: no-repeat;
+   width: 275px;
+  text-align: center;
+  margin-top: 1px;
+}
+
+
+.dogo{
+    /* border: 2px solid black; */
+    height: 170px;
+    width: 276px;
+    margin-top: -173px;
+    margin-left: 339px;
+    background-image: url(https://images.theconversation.com/files/393210/original/file-20210401-13-z6rl6z.jpg?ixlib=rb-4.1.0&rect=9%2C0%2C2994%2C1999&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip);
+}
+
+.gogo{
+    /* border: 2px solid black; */
+    height: 317px;
+    width: 276px;
+    margin-top: -317px;
+    margin-left: 650px;
+    background-image: url(https://i1.pickpik.com/photos/213/278/337/landscape-forest-trees-woods-thumb.jpg);
+    background-size: 570px;
+}
+
+
+.nogo{
+      /* border: 2px solid black;  */
+     height: 203px;
+     width: 276px;
+     margin-top: -203px;
+     margin-left: 947px;
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCCjgogPnuP4mhkfbMu-p98PyC8vskWU2UQ&s);
+}
+
+
+
